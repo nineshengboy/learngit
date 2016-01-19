@@ -1,3 +1,4 @@
 git is a version control system.
-git is free software.
+git is free software about GPL.
 我算什么
+who am i?
